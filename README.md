@@ -7,5 +7,5 @@ On a choisis d'utiliser les tableaux de fonction et les pointeurs de fonction po
 L'un des conflit c'etait comment utiliser les headers et les variables externes.
 
 IMPORTANT!!
-On a utilise visual studio pour la compilation ce qui explique la presence des fichier de type different.
+On a utilise visual studio pour la compilation ce qui explique la presence des fichier de format different.
 Il faut cree les fichiers(client.txt, voiture.txt, location.txt) dans le repertoire "\...\projec1\projec1" avant d'executer.
