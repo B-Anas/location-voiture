@@ -1,0 +1,14 @@
+﻿  location.c
+C:\Users\anaso\source\repos\projec1\projec1\location.c(18,7): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\anaso\source\repos\projec1\projec1\location.c(43,31): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\anaso\source\repos\projec1\projec1\location.c(66,176): warning C4474: 'fscanf' : too many arguments passed for format string
+C:\Users\anaso\source\repos\projec1\projec1\location.c(66,176): message : placeholders and their parameters expect 8 variadic arguments, but 10 were provided
+C:\Users\anaso\source\repos\projec1\projec1\location.c(99,10): warning C4013: 'system' undefined; assuming extern returning int
+C:\Users\anaso\source\repos\projec1\projec1\location.c(204,26): warning C4013: 'chercherVoitureII' undefined; assuming extern returning int
+C:\Users\anaso\source\repos\projec1\projec1\location.c(204,50): warning C4047: 'return': 'location *' differs in levels of indirection from 'int'
+C:\Users\anaso\source\repos\projec1\projec1\location.c(209,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\anaso\source\repos\projec1\projec1\location.c(210,32): warning C4047: 'function': 'listL *' differs in levels of indirection from 'listL **'
+C:\Users\anaso\source\repos\projec1\projec1\location.c(210,23): warning C4024: 'chercherLocation': different types for formal and actual parameter 1
+C:\Users\anaso\source\repos\projec1\projec1\location.c(235,3): warning C4033: 'menuL' must return a value
+C:\Users\anaso\source\repos\projec1\projec1\location.c(239): warning C4715: 'menuL': not all control paths return a value
+  projec1.vcxproj -> C:\Users\anaso\source\repos\projec1\Debug\projec1.exe
